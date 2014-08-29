@@ -1,0 +1,15 @@
+Package: ear_utils
+Type: Package
+Title: Environment Agency R utilities (ear_utils)
+Version: 0.1
+Date: 2014-08-29
+Authors@R: "John Douglass <john.douglass@environment-agency.gov.uk> [aut, cre]"
+Maintainer: John Douglass <john.douglass@environment-agency.gov.uk>
+Description: A number of simple functions to perform common tasks. hopefully we
+    can share a few bits and bobs here in a semi-formal way (formal enough to
+    make code posted usable by other but nobodies going to complain about
+    incorrectly formatted code.)
+Depends:
+    R (>= 3.1.1)
+License: NULL
+LazyData: true
